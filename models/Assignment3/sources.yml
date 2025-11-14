@@ -1,0 +1,8 @@
+sources:
+  - name: raw
+    database: DBT_ASSIGNMENT3
+    schema: RAW
+    tables:
+      - name: customers
+
+      
